@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchanger.Form1.resources
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CurrencyExchange\CurrencyExchange\obj\Debug\net6.0-windows\CurrencyExchange.Form1.resources
